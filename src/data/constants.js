@@ -85,7 +85,7 @@ export const skills = [
       },
       {
         name: "Express Js",
-        image: "https://i.ibb.co/drCcj8j/ex.png",
+        image: "https://i.ibb.co/FDGm9wz/ex-1.png",
       },
       {
         name: "MySql",
