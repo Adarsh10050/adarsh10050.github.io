@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import { useRef } from 'react';
 import emailjs from '@emailjs/browser';
 import { Snackbar } from '@mui/material';
+import {  ResumeButton } from '../HeroSection/HeroStyle';
 
 const Container = styled.div`
 display: flex;
@@ -152,7 +153,7 @@ const Contact = () => {
           <ContactInput placeholder="Your Name" name="from_name" />
           <ContactInput placeholder="Subject" name="subject" />
           <ContactInputMessage placeholder="Message" rows="4" name="message" />
-          <ContactButton type="submit" value="Send" />
+          <ContactButton type="submit" value="Send" className='ResumeButton'/>
         </ContactForm>
         <Snackbar
           open={open}

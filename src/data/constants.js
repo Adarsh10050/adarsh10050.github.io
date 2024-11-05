@@ -9,9 +9,9 @@ export const Bio = {
   github: "https://github.com/Adarsh10050",
   resume:
     "https://drive.google.com/file/d/107AmoSTvi66F6zBSX8ruNmGqj5_e6w4h/view?usp=sharing",
+    github: "https://github.com/Adarsh10050",
   linkedin: "https://www.linkedin.com/in/adarsh-kumar-826936285/",
   twitter: "https://x.com/Adarshdev121p",
-  github: "https://github.com/Adarsh10050",
 };
 
 export const skills = [
