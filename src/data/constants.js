@@ -117,6 +117,10 @@ export const skills = [
         name: "IntelliJ IDEA",
         image: "https://i.ibb.co/MMGBDLV/int.webp",
       },
+      {
+        name: "Figma",
+        image: "https://media.licdn.com/dms/image/C4D12AQHTWmXtImF2sw/article-cover_image-shrink_720_1280/0/1578556490672?e=2147483647&v=beta&t=GUbMSYJ4ekAJkRsZoFYWOjV7v47x0wUFZsHTFRrg5pM",
+      },
     ],
   },
 ];
