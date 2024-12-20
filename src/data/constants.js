@@ -359,6 +359,33 @@ export const projects = [
     github: "https://github.com/Adarsh10050/Number_guessing",
     webapp: "https://github.com/Adarsh10050/Number_guessing",
   },
+  {
+    id: 6,
+    title: "Stone, Paper and Scissor",
+    date: "April 2024",
+    description:
+      "The Stone, Paper, Scissors game is an engaging Java application that allows players to compete against the computer in this classic hand game. Players choose between stone, paper, or scissors, while the computer randomly selects its option. The game then determines and displays the winner based on the standard rules, providing an entertaining way to practice programming concepts such as conditionals and randomization in Java.",
+    image:
+      "https://i.ibb.co/2SQkrZ2/number-guessing.png",
+    tags: ["Java"],
+    category: "Java Programming",
+    github: "https://github.com/Adarsh10050/Number_guessing",
+    webapp: "https://github.com/Adarsh10050/Number_guessing",
+  },
+  {
+    id: 7,
+    title: "🎮Tic-Tac-Toe Game🎮",
+    date: "Dec 2024",
+    description:
+      "I’ve developed a simple yet fun Tic Tac Toe game in Java! This console-based game allows two players to compete against each other. It’s a great way to sharpen my problem-solving and Java skills while working with logic, arrays, and user input handling.",
+    // image:
+    //   "https://ibb.co/Pwhmrq3",
+    tags: ["Java"],
+    category: "Java Programming",
+    github: "https://github.com/Adarsh10050/TicTacToe_Java",
+    webapp: "https://github.com/Adarsh10050/TicTacToe_Java",
+  },
+
 ];
 
 // export const TimeLineData = [
