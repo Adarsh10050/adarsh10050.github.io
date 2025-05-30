@@ -2,14 +2,14 @@ export const Bio = {
   name: "Adarsh Kumar",
   roles: [
     "Frontend Developer",
-    "Java Programmer"
+    "Java Developer"
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Adarsh10050",
   resume:
     "https://drive.google.com/file/d/107AmoSTvi66F6zBSX8ruNmGqj5_e6w4h/view?usp=sharing",
-    github: "https://github.com/Adarsh10050",
+  github: "https://github.com/Adarsh10050",
   linkedin: "https://www.linkedin.com/in/adarsh-kumar-826936285/",
   twitter: "https://x.com/Adarshdev121p",
 };
@@ -107,7 +107,7 @@ export const skills = [
       },
       {
         name: "GitHub",
-        image:  "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+        image: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
       },
       {
         name: "VS Code",
@@ -175,10 +175,10 @@ export const experiences = [
     date: "May 2024 - July 2024",
     desc: "I developed a 'Lost & Found' website to help users report and locate lost items efficiently. Built with HTML, CSS, JavaScript, and React.js, the site features a user-friendly interface, allowing quick submissions and searches for missing belongings",
     skills: [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "React Js",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "React Js",
     ],
     doc: "https://i.ibb.co/SXBf4Cq/excellence.png",
   },
@@ -190,7 +190,7 @@ export const experiences = [
     date: "July 2024 - Nov 2024",
     desc: "I developed QuickRide, a website that allows users to rent vehicles easily, utilizing HTML, CSS, JavaScript, PHP, and MySQL for a smooth, dynamic booking experience.",
     skills: [
-      "HTML", 
+      "HTML",
       "CSS",
       "Javascript",
       "PHP",
@@ -292,7 +292,7 @@ export const projects = [
     category: "Java Programming",
     github: "https://github.com/Adarsh10050/HotelReservation_With_Database",
     webapp: "https://github.com/Adarsh10050/HotelReservation_With_Database",
-    
+
   },
   {
     id: 3,
