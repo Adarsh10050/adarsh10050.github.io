@@ -81,10 +81,6 @@ export const skills = [
     title: "Backend",
     skills: [
       {
-        name: "Node Js",
-        image: "https://i.ibb.co/MG1kZSC/node.jpg",
-      },
-      {
         name: "Express Js",
         image: "https://i.ibb.co/FDGm9wz/ex-1.png",
       },
@@ -198,6 +194,23 @@ export const experiences = [
     ],
     doc: "https://i.ibb.co/7JFQKsP/Screenshot-20241019-120813.png",
   },
+  {
+    id: 4,
+    img: "https://images.yourstory.com/cs/images/brandSpotlight/DevSparks-1714645812757.png",
+    role: "AI training",
+    company: "OLA Krutrim",
+    date: "March 2025 - Now",
+    desc: "Collaborating with the AI/ML team to annotate, label, and curate large datasets (text, images, audio, etc.) for training generative and conversational AI models.",
+    skills: [
+      "Data Annotation & Labeling",
+      "Quality Assurance (QA)",
+      "Annotation Tools",
+      "Communication & Team Collaboration",
+      "Problem-Solving",
+    ],
+    doc: "",
+  },
+  
 ];
 
 export const education = [
