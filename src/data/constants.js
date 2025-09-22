@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Adarsh10050",
   resume:
-    "https://drive.google.com/file/d/1yThcgN1K0iAn5d1YIPZS4eiV-CJnT3Ju/view",
+    "https://drive.google.com/file/d/1eb3vC8TtljCBvNYTMSNtL5e9cx1-VwLM/view?usp=sharing",
   github: "https://github.com/Adarsh10050",
   linkedin: "https://www.linkedin.com/in/adarsh-kumar-826936285/",
   twitter: "https://x.com/Adarshdev121p",
@@ -91,6 +91,10 @@ export const skills = [
       {
         name: "Mongo DB",
         image: "https://i.ibb.co/g3Gq3y7/mongo.png",
+      },
+      {
+        name: "Spring Boot",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNou7-DlVcN5nOVq73_RDi6OAYZAzOknfzQw&s",
       },
     ],
   },
@@ -197,7 +201,7 @@ export const experiences = [
   {
     id: 4,
     img: "https://images.yourstory.com/cs/images/brandSpotlight/DevSparks-1714645812757.png",
-    role: "AI training",
+    role: "AI Data Trainer",
     company: "OLA Krutrim",
     date: "March 2025 - Now",
     desc: "Collaborating with the AI/ML team to annotate, label, and curate large datasets (text, images, audio, etc.) for training generative and conversational AI models.",
@@ -214,6 +218,15 @@ export const experiences = [
 ];
 
 export const education = [
+  {
+    id: 0,
+    img: "https://i.ibb.co/nRDMd0P/cu.png",
+    school: "Chandigarh University",
+    date: "Sep 2025 - July 2027",
+    //  grade: "7.86 CGPA",
+    desc: "I am currently in the first year of my Master of Computer Applications (MCA) with a specialization in Cloud Computing. I have studied subjects like Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks.",
+    degree: "Master of Computer Applications",
+  },
   {
     id: 0,
     img: "https://i.ibb.co/nRDMd0P/cu.png",
@@ -265,6 +278,19 @@ export const projects = [
   },
   {
     id: 0,
+    title: "MathSolverTemplates",
+    date: "Sep 2025 - Sep 2025",
+    description:
+      "MathSolverTemplate is a Spring Boot project using Thymeleaf that allows users to solve mathematical problems efficiently, providing clear solutions and a user-friendly interface.",
+    image:
+      "https://i.postimg.cc/C1NtKjX7/Screenshot-2025-09-22-233712.png",
+    tags: ["HTML", "CSS", "Javascript", "Spring Boot", "Java", "Thymeleaf"],
+    category: "Java Programming",
+    github: "https://github.com/Adarsh10050/MathSolverTemplates",
+    webapp: "https://github.com/Adarsh10050/MathSolverTemplates",
+  },
+  {
+    id: 1,
     title: "Lost & Found",
     date: "May 2024 - July 2024",
     description:
@@ -277,7 +303,7 @@ export const projects = [
     webapp: "https://github.com/Adarsh10050/SummerTraining",
   },
   {
-    id: 1,
+    id: 2,
     title: "Radhe Radhe",
     date: "Nov 2023 - Dec 2023",
     description:
@@ -294,7 +320,7 @@ export const projects = [
     webapp: "https://github.com/Adarsh10050/hotel_booking_project",
   },
   {
-    id: 2,
+    id: 3,
     title: "Hotel Management",
     date: "Sep 2024",
     description:
@@ -308,7 +334,7 @@ export const projects = [
 
   },
   {
-    id: 3,
+    id: 4,
     title: "Temperature Converter",
     date: "Dec 2024",
     description:
@@ -334,7 +360,7 @@ export const projects = [
     webapp: "https://github.com/Adarsh10050/landing_page",
   },
   {
-    id: 4,
+    id: 5,
     title: "ATM Interface",
     date: "March 2024",
     description:
@@ -347,7 +373,7 @@ export const projects = [
     webapp: "https://github.com/Adarsh10050/Atm_Interface",
   },
   {
-    id: 5,
+    id: 6,
     title: "Number Guessing Game",
     date: "March 2024",
     description:
@@ -360,33 +386,33 @@ export const projects = [
     webapp: "https://github.com/Adarsh10050/Number_guessing",
   },
   {
-    id: 6,
-    title: "Stone, Paper and Scissor",
-    date: "April 2024",
-    description:
-      "The Stone, Paper, Scissors game is an engaging Java application that allows players to compete against the computer in this classic hand game. Players choose between stone, paper, or scissors, while the computer randomly selects its option. The game then determines and displays the winner based on the standard rules, providing an entertaining way to practice programming concepts such as conditionals and randomization in Java.",
-    image:
-      "https://i.ibb.co/2SQkrZ2/number-guessing.png",
-    tags: ["Java"],
-    category: "Java Programming",
-    github: "https://github.com/Adarsh10050/Number_guessing",
-    webapp: "https://github.com/Adarsh10050/Number_guessing",
-  },
-  {
-    id: 6,
-    title: "Stone, Paper and Scissor",
-    date: "April 2024",
-    description:
-      "The Stone, Paper, Scissors game is an engaging Java application that allows players to compete against the computer in this classic hand game. Players choose between stone, paper, or scissors, while the computer randomly selects its option. The game then determines and displays the winner based on the standard rules, providing an entertaining way to practice programming concepts such as conditionals and randomization in Java.",
-    image:
-      "https://i.ibb.co/2SQkrZ2/number-guessing.png",
-    tags: ["Java"],
-    category: "Java Programming",
-    github: "https://github.com/Adarsh10050/Number_guessing",
-    webapp: "https://github.com/Adarsh10050/Number_guessing",
-  },
-  {
     id: 7,
+    title: "Stone, Paper and Scissor",
+    date: "April 2024",
+    description:
+      "The Stone, Paper, Scissors game is an engaging Java application that allows players to compete against the computer in this classic hand game. Players choose between stone, paper, or scissors, while the computer randomly selects its option. The game then determines and displays the winner based on the standard rules, providing an entertaining way to practice programming concepts such as conditionals and randomization in Java.",
+    image:
+      "https://i.ibb.co/2SQkrZ2/number-guessing.png",
+    tags: ["Java"],
+    category: "Java Programming",
+    github: "https://github.com/Adarsh10050/Number_guessing",
+    webapp: "https://github.com/Adarsh10050/Number_guessing",
+  },
+  {
+    id: 8,
+    title: "Stone, Paper and Scissor",
+    date: "April 2024",
+    description:
+      "The Stone, Paper, Scissors game is an engaging Java application that allows players to compete against the computer in this classic hand game. Players choose between stone, paper, or scissors, while the computer randomly selects its option. The game then determines and displays the winner based on the standard rules, providing an entertaining way to practice programming concepts such as conditionals and randomization in Java.",
+    image:
+      "https://i.ibb.co/2SQkrZ2/number-guessing.png",
+    tags: ["Java"],
+    category: "Java Programming",
+    github: "https://github.com/Adarsh10050/Number_guessing",
+    webapp: "https://github.com/Adarsh10050/Number_guessing",
+  },
+  {
+    id: 11,
     title: "🎮Tic-Tac-Toe Game🎮",
     date: "Dec 2024",
     description:
