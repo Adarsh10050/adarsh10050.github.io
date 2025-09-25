@@ -232,7 +232,7 @@ export const education = [
     img: "https://i.ibb.co/nRDMd0P/cu.png",
     school: "Chandigarh University",
     date: "Sep 2022 - July 2025",
-    grade: "7.86 CGPA",
+    grade: "7.90 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Applications (BCA) in my final year at Chandigarh University, with a CGPA of 7.86. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks",
     degree: "Bachelor of Computer Application",
   },
