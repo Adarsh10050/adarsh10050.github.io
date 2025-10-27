@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Adarsh10050",
   resume:
-    "https://drive.google.com/file/d/1eb3vC8TtljCBvNYTMSNtL5e9cx1-VwLM/view?usp=sharing",
+    "https://drive.google.com/file/d/179IFY9oqjC07FRDTBWJN7QlOVcaw8Dx7/view?usp=sharing",
   github: "https://github.com/Adarsh10050",
   linkedin: "https://www.linkedin.com/in/adarsh-kumar-826936285/",
   twitter: "https://x.com/Adarshdev121p",
@@ -418,8 +418,7 @@ export const projects = [
     date: "Dec 2024",
     description:
       "I’ve developed a simple yet fun Tic Tac Toe game in Java! This console-based game allows two players to compete against each other. It’s a great way to sharpen my problem-solving and Java skills while working with logic, arrays, and user input handling.",
-    // image:
-    //   "https://ibb.co/Pwhmrq3",
+    image: "https://i.postimg.cc/zfgStBX2/tic-tac.png",
     tags: ["Java"],
     category: "Java Programming",
     github: "https://github.com/Adarsh10050/TicTacToe_Java",
@@ -428,10 +427,10 @@ export const projects = [
   {
     id: 12,
     title: "Memorix: Smart Contact Management System",
-    date: "Oct 2024 - Nov 2024",
+    date: "Sep 2025 - Oct 2025",
     description:
       "Memorix is a secure and efficient contact management system built using Java, Spring Boot, MySQL, Thymeleaf, and Spring Security. It allows users to store and manage their contacts with details like names, nicknames, phone numbers, photos, and descriptions. Featuring user authentication and authorization, Memorix ensures data privacy while providing an intuitive interface for easy access and updates. Designed with scalability and usability in mind, it simplifies personal and professional contact organization.",
-    image: "https://drive.google.com/file/d/1kgXQfAhl91iEhR2r_bVI45TM_dtVRYYX/view?usp=sharing",
+    image: "https://i.postimg.cc/fyXGMZKy/Screenshot-2025-10-27-010035.png",
     tags: ["Java", "Spring Boot", "MySQL", "Thymeleaf", "Spring Security"],
     category: "Java Programming",
     github: "https://github.com/Adarsh10050/Memorix",
