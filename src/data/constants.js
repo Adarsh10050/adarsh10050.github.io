@@ -256,6 +256,7 @@ export const education = [
   },
 ];
 
+
 export const projects = [
   {
     id: 9,
@@ -424,13 +425,18 @@ export const projects = [
     github: "https://github.com/Adarsh10050/TicTacToe_Java",
     webapp: "https://github.com/Adarsh10050/TicTacToe_Java",
   },
+  {
+    id: 12,
+    title: "Memorix: Smart Contact Management System",
+    date: "Oct 2024 - Nov 2024",
+    description:
+      "Memorix is a secure and efficient contact management system built using Java, Spring Boot, MySQL, Thymeleaf, and Spring Security. It allows users to store and manage their contacts with details like names, nicknames, phone numbers, photos, and descriptions. Featuring user authentication and authorization, Memorix ensures data privacy while providing an intuitive interface for easy access and updates. Designed with scalability and usability in mind, it simplifies personal and professional contact organization.",
+    image: "https://drive.google.com/file/d/1kgXQfAhl91iEhR2r_bVI45TM_dtVRYYX/view?usp=sharing",
+    tags: ["Java", "Spring Boot", "MySQL", "Thymeleaf", "Spring Security"],
+    category: "Java Programming",
+    github: "https://github.com/Adarsh10050/Memorix",
+    webapp: "https://drive.google.com/file/d/1Ud7cdJeSsyDQjNyxgS3QWfecgrklylT8/view?usp=drivesdk",
+  },
 
 ];
 
-// export const TimeLineData = [
-//   { year: 2017, text: "Started my journey" },
-//   { year: 2018, text: "Worked as a freelance developer" },
-//   { year: 2019, text: "Founded JavaScript Mastery" },
-//   { year: 2020, text: "Shared my projects with the world" },
-//   { year: 2021, text: "Started my own platform" },
-// ];
