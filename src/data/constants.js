@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Adarsh10050",
   resume:
-    "https://drive.google.com/file/d/179IFY9oqjC07FRDTBWJN7QlOVcaw8Dx7/view?usp=sharing",
+    "https://drive.google.com/file/d/16Pl-FBNsXlw7vOVe4LFGz_D49qKspSMx/view?usp=drivesdk",
   github: "https://github.com/Adarsh10050",
   linkedin: "https://www.linkedin.com/in/adarsh-kumar-826936285/",
   twitter: "https://x.com/Adarshdev121p",
@@ -260,12 +260,12 @@ export const education = [
 export const projects = [
   {
     id: 9,
-    title: "QuickRide: An Integrated Car & Bike Rental Service",
+    title: "Wheelwise: An Integrated Car & Bike Rental Service",
     date: "July 2024 - Nov 2024",
     description:
       "QuickRide is an innovative online platform designed to simplify the vehicle rental process for users. Built with a modern tech stack including HTML, CSS, JavaScript, PHP, and MySQL, QuickRide offers a user-friendly interface that allows individuals to easily browse, book, and manage their vehicle rentals. The platform features a seamless booking experience, detailed vehicle listings, and secure payment options, ensuring a hassle-free experience for both renters and customers. Whether you're looking for a car for a day trip or a bike for daily commuting, QuickRide provides a reliable solution tailored to your travel needs.",
     image:
-      "https://i.ibb.co/7JFQKsP/Screenshot-20241019-120813.png",
+      "https://i.postimg.cc/8cg2MZBk/Screenshot-2025-10-29-004658.png",
     tags: [
       "HTML",
       "CSS",
@@ -275,7 +275,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Adarsh10050/QuickRide/tree/master",
-    webapp: "https://github.com/Adarsh10050/QuickRide/tree/master",
+    webapp: "https://drive.google.com/file/d/1Rlz_QfbCxseO-AwcQnzjyRHTscVIDUVu/view?usp=drivesdk",
   },
   {
     id: 0,
